@@ -1,3 +1,5 @@
+/**Execute Asynchronous Functions in Parallel*/
+
 /**
  * @param {Array<Function>} functions
  * @return {Promise<any>}
